@@ -1,0 +1,10 @@
+@font-face {
+    font-family: gxs;
+    src: url("https://cdn.ituring.ir/qepal/fonts/vrb.woff");
+}
+
+
+.test
+{
+    background-color: olivedrab;
+}
